@@ -11,36 +11,15 @@ public class RacecarAgent : Agent
 
     Drive Drive;
     private Rigidbody rb;
-
-    public GameObject redCone1;
-    private Vector3 redCone1Pos;
-    public GameObject redCone2;
-    private Vector3 redCone2Pos;
-    public GameObject redConeFinish;
-    private Vector3 redConeFinishPos;
-    public GameObject blueCone1;
-    private Vector3 blueCone1Pos;
-    public GameObject blueCone2;
-    private Vector3 blueCone2Pos;
-    public GameObject blueConeFinish;
-    private Vector3 blueConeFinishPos;
     public override void Initialize()
     {
         this.Drive = GetComponent<Drive>();
         this.Drive.MaxSpeed = 1;
         rb = GetComponent<Rigidbody>();
-        redCone1Pos = redCone1.transform.localPosition;
-        redCone2Pos = redCone2.transform.localPosition;
-        redConeFinishPos = redConeFinish.transform.localPosition;
-        blueCone1Pos = blueCone1.transform.localPosition;
-        blueCone2Pos = blueCone2.transform.localPosition;
-        blueConeFinishPos = blueConeFinish.transform.localPosition;
     }
     public override void CollectObservations(VectorSensor sensor) {
     // Target and Agent positions
-        sensor.AddObservation(transform.localPosition);
-        sensor.AddObservation(this.Drive.Speed);
-        sensor.AddObservation(this.Drive.Angle);
+        sensor.AddObservation(this.transform.InverseTransformVector(rb.velocity.normalized));
     }
 
     void OnTriggerEnter(Collider other) {
@@ -80,11 +59,5 @@ public class RacecarAgent : Agent
         rb.velocity = Vector3.zero;
         transform.localPosition = new Vector3(0, 0, -39);
         transform.localRotation = Quaternion.identity;
-        redCone1.transform.localPosition = redCone1Pos;
-        redCone2.transform.localPosition = redCone2Pos;
-        redConeFinish.transform.localPosition = redConeFinishPos;
-        blueCone1.transform.localPosition = blueCone1Pos;
-        blueCone2.transform.localPosition = blueCone2Pos;
-        blueConeFinish.transform.localPosition = blueConeFinishPos;
     }
 }
