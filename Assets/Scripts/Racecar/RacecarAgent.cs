@@ -24,22 +24,20 @@ public class RacecarAgent : Agent
 
     void OnTriggerEnter(Collider other) {
         if (other.gameObject.tag == "fail") {
-            Debug.Log(other.gameObject.tag);
             SetReward(-1f);
             EndEpisode();
         }
         else if (other.gameObject.tag == "checkpoint") {
-            Debug.Log(other.gameObject.tag);
             AddReward(1f);
         }
         else if (other.gameObject.tag == "end") {
-            Debug.Log(other.gameObject.tag);
             AddReward(3f);
             EndEpisode();
         }
-    }
-    void OnCollisionEnter(Collision other) {
-        Debug.Log(other.gameObject.tag);
+        else if (other.gameObject.tag == "redFail" || other.gameObject.tag == "blueFail") {
+            SetReward(-1f);
+            EndEpisode();
+        }
     }
 
 
