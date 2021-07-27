@@ -1,0 +1,65 @@
+{
+    "Racecar": {
+        "checkpoints": [
+            {
+                "steps": 3914053,
+                "file_path": "results\\test\\Racecar\\Racecar-3914053.onnx",
+                "reward": 2.6920000361278653,
+                "creation_time": 1627392318.9784858,
+                "auxillary_file_paths": [
+                    "results\\test\\Racecar\\Racecar-3914053.pt"
+                ]
+            },
+            {
+                "steps": 3916235,
+                "file_path": "results\\test\\Racecar\\Racecar-3916235.onnx",
+                "reward": 1.744250145740807,
+                "creation_time": 1627392403.8916154,
+                "auxillary_file_paths": [
+                    "results\\test\\Racecar\\Racecar-3916235.pt"
+                ]
+            },
+            {
+                "steps": 3949996,
+                "file_path": "results\\test\\Racecar\\Racecar-3949996.onnx",
+                "reward": 1.6940400901436805,
+                "creation_time": 1627394518.1191394,
+                "auxillary_file_paths": [
+                    "results\\test\\Racecar\\Racecar-3949996.pt"
+                ]
+            },
+            {
+                "steps": 3999976,
+                "file_path": "results\\test\\Racecar\\Racecar-3999976.onnx",
+                "reward": 2.0751000598073004,
+                "creation_time": 1627394995.8442905,
+                "auxillary_file_paths": [
+                    "results\\test\\Racecar\\Racecar-3999976.pt"
+                ]
+            },
+            {
+                "steps": 4038899,
+                "file_path": "results\\test\\Racecar\\Racecar-4038899.onnx",
+                "reward": -0.8151052743196487,
+                "creation_time": 1627395346.3118248,
+                "auxillary_file_paths": [
+                    "results\\test\\Racecar\\Racecar-4038899.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4038899,
+            "file_path": "results\\test\\Racecar.onnx",
+            "reward": -0.8151052743196487,
+            "creation_time": 1627395346.3118248,
+            "auxillary_file_paths": [
+                "results\\test\\Racecar\\Racecar-4038899.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

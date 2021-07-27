@@ -1,0 +1,293 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Phase1.unity
+    guid: 6a70d0b00056bb043894c56e590f2175
+  - enabled: 0
+    path: Assets/Scenes/Main.unity
+    guid: bb39323eda651834fab058c9af91e524
+  - enabled: 0
+    path: Assets/Scenes/ReloadBuffer.unity
+    guid: 189eb9a44453224479ebcaecca5c505f
+  - enabled: 0
+    path: Assets/Scenes/Demo.unity
+    guid: 10ee3c59bb929db49a55a7478063f885
+  - enabled: 0
+    path: Assets/Scenes/Lab1.unity
+    guid: a6e9dbc00a763f0479fa840c8194081b
+  - enabled: 0
+    path: Assets/Scenes/Lab2Jupyter.unity
+    guid: 31fa1e69ddc241f42970daef586a46a2
+  - enabled: 0
+    path: Assets/Scenes/Lab2A.unity
+    guid: f6c9fdba3421a6449ad73cc2076e70d7
+  - enabled: 0
+    path: Assets/Scenes/Lab2B.unity
+    guid: 3cfcfea6ce6da6745b52c8ca6d5878ff
+  - enabled: 0
+    path: Assets/Scenes/Lab3Jupyter.unity
+    guid: d8d1a2354cb284941b999e0c299d853a
+  - enabled: 0
+    path: Assets/Scenes/Lab3A.unity
+    guid: bdc04e137ca700143862e3c1e6f7d5ad
+  - enabled: 0
+    path: Assets/Scenes/Lab3B.unity
+    guid: 02787bd0d5a39fe4a9af517791797a95
+  - enabled: 0
+    path: Assets/Scenes/Lab3C.unity
+    guid: 54ab88a43a4717e45abcb27d77a75591
+  - enabled: 0
+    path: Assets/Scenes/Phase1Hard.unity
+    guid: bcf246b186421d14cb1aa25b9a51aa90
+  - enabled: 0
+    path: Assets/Scenes/Lab4Jupyter.unity
+    guid: 20c42e9b58aaf4449a97d616c0742c63
+  - enabled: 0
+    path: Assets/Scenes/Lab4B.unity
+    guid: 6afb13d8bf6d33a47947b9e96d5851d0
+  - enabled: 0
+    path: Assets/Scenes/Lab5Jupyter.unity
+    guid: 418006b3308733041a83b03b5ca1623d
+  - enabled: 0
+    path: Assets/Scenes/Lab5.unity
+    guid: b0e65fae3d06128498261fbc3ab6fec7
+  - enabled: 0
+    path: Assets/Scenes/TimeTrial.unity
+    guid: caa585d600c7e194a934b0cf0542e5fd
+  - enabled: 0
+    path: Assets/Scenes/GrandPrix.unity
+    guid: d66aacdc67c45f94e91e170b7c9ae645
+  - enabled: 0
+    path: Assets/Scenes/Bonus1A.unity
+    guid: b7f292a9490f60d499d2f260aada3b71
+  - enabled: 0
+    path: Assets/Scenes/Bonus2.unity
+    guid: 61428b9256688c54b8ed1a256d7347bc
+  - enabled: 0
+    path: Assets/Scenes/Test1.unity
+    guid: 27a3f32ce1508dd47bec4becdb965e62
+  - enabled: 0
+    path: Assets/Scenes/Test2.unity
+    guid: 9def6296790f3cc47adda8c4161e2b54
+  - enabled: 0
+    path: Assets/Scenes/Test3.unity
+    guid: e203c6c4f0144374483a2648659c5717
+  - enabled: 0
+    path: Assets/Scenes/Test4.unity
+    guid: 390bc5b4e67cc0742a763680534f85cb
+  - enabled: 0
+    path: Assets/Scenes/AutograderSummary.unity
+    guid: 4d8aed8fc2cac9a46b703439e1f16cf7
+  - enabled: 0
+    path: Assets/Scenes/Lab1Autograder/Lab1_1_Straight.unity
+    guid: 4e49e7ed7520a8e45a1c127bc3b754dd
+  - enabled: 0
+    path: Assets/Scenes/Lab1Autograder/Lab1_2_Reverse.unity
+    guid: 3b6663aa51d352e4788b51c040c20a43
+  - enabled: 0
+    path: Assets/Scenes/Lab1Autograder/Lab1_3_Left.unity
+    guid: 672ead7308250d340b67915608130dae
+  - enabled: 0
+    path: Assets/Scenes/Lab1Autograder/Lab1_4_Right.unity
+    guid: 6fa1e57215b3961488e5c042ff1b0d7a
+  - enabled: 0
+    path: Assets/Scenes/Lab1Autograder/Lab1_5_Circle.unity
+    guid: b369b40818cbbd84b983f8f8713988c1
+  - enabled: 0
+    path: Assets/Scenes/Lab1Autograder/Lab1_6_Square.unity
+    guid: e134e397b62a86f4c84f13fe48725895
+  - enabled: 0
+    path: Assets/Scenes/Lab1Autograder/Lab1_7_Figure8.unity
+    guid: ec9d8ec9599fa884e92826b0ebe48651
+  - enabled: 0
+    path: Assets/Scenes/Lab1Autograder/Lab1_8_ChosenShape.unity
+    guid: b34c6cfdffd3cc2408fe19c6e60634bc
+  - enabled: 0
+    path: Assets/Scenes/Lab2AAutograder/Lab2A_1_Straight.unity
+    guid: ac5590da3fc2478418b380a902a8fa80
+  - enabled: 0
+    path: Assets/Scenes/Lab2AAutograder/Lab2A_2_GentleTurn.unity
+    guid: d7d6bf44f8a25f549b0f010abc2fcc9e
+  - enabled: 0
+    path: Assets/Scenes/Lab2AAutograder/Lab2A_3_SharpTurn.unity
+    guid: f4137d34b0f4c5347bbfd1ff8a567379
+  - enabled: 0
+    path: Assets/Scenes/Lab2AAutograder/Lab2A_4_CurvedPath.unity
+    guid: f2514b362db400344908b29a48453d75
+  - enabled: 0
+    path: Assets/Scenes/Lab2AAutograder/Lab2A_5_ColorPriority1.unity
+    guid: c58c450cf594ef74297a334b227551d8
+  - enabled: 0
+    path: Assets/Scenes/Lab2AAutograder/Lab2A_6_ColorPriority2.unity
+    guid: e36cae308ef69294da86e9e2a2971d5e
+  - enabled: 0
+    path: Assets/Scenes/Lab2AAutograder/Lab2A_7_Perpendicular.unity
+    guid: bd57bd74199d6e64a9ea09a34a0021aa
+  - enabled: 0
+    path: Assets/Scenes/Lab2BAutograder/Lab2B_1_Far.unity
+    guid: 41a214cc4456883428bd5d3d703033e4
+  - enabled: 0
+    path: Assets/Scenes/Lab2BAutograder/Lab2B_2_Near.unity
+    guid: 9bd087244abe0d24886d766259144f7b
+  - enabled: 0
+    path: Assets/Scenes/Lab2BAutograder/Lab2B_3_VeryFar.unity
+    guid: 19301de2cb5fa2c4f89f1648656f75ee
+  - enabled: 0
+    path: Assets/Scenes/Lab2BAutograder/Lab2B_4_SlightLeft.unity
+    guid: 1ce9f41db986b4e4c9689d40b22fc429
+  - enabled: 0
+    path: Assets/Scenes/Lab2BAutograder/Lab2B_5_FarRight.unity
+    guid: b4056bfaa8ef94f45b8fa589b5bc99e0
+  - enabled: 0
+    path: Assets/Scenes/Lab2BAutograder/Lab2B_6_NearLeft.unity
+    guid: 80afb65835f43794f8c2f1e1eac81703
+  - enabled: 0
+    path: Assets/Scenes/Lab3AAutograder/Lab3A_1_FullSpeed.unity
+    guid: 17ebfd501e3ed4c4791a045ce4bdb351
+  - enabled: 0
+    path: Assets/Scenes/Lab3AAutograder/Lab3A_2_Wall.unity
+    guid: a415c0947d3700a4f86a2245bd3d9aaa
+  - enabled: 0
+    path: Assets/Scenes/Lab3AAutograder/Lab3A_3_Blocks.unity
+    guid: 56d360d5750b616419ca8e812ff78e5d
+  - enabled: 0
+    path: Assets/Scenes/Lab3AAutograder/Lab3A_4_Cone.unity
+    guid: 68b51b864af73d3448524c821626a037
+  - enabled: 0
+    path: Assets/Scenes/Lab3AAutograder/Lab3A_5_OffCenteredCone.unity
+    guid: 0963e92a3bc21fb47a999954471db87c
+  - enabled: 0
+    path: Assets/Scenes/Lab3AAutograder/Lab3A_6_Gap.unity
+    guid: a62360f336ad5ca4485b76279ca22823
+  - enabled: 0
+    path: Assets/Scenes/Lab3AAutograder/Lab3A_7_Ramp.unity
+    guid: 4dbc9c98b26d51b4cb70b70f18482df4
+  - enabled: 0
+    path: Assets/Scenes/Lab3AAutograder/Lab3A_8_Cliff.unity
+    guid: 7d3d9951a4b3fd94da50ffaec54c3ed5
+  - enabled: 0
+    path: Assets/Scenes/Lab3BAutograder/Lab3B_1_NormalCone.unity
+    guid: 3ce80b512f0b86e488dc37b905be7633
+  - enabled: 0
+    path: Assets/Scenes/Lab3BAutograder/Lab3B_2_LargeCone.unity
+    guid: 4ade3d291b994da4c862a5c4bb953dce
+  - enabled: 0
+    path: Assets/Scenes/Lab3BAutograder/Lab3B_3_SmallCone.unity
+    guid: 4fc49756426a8ad4692f56937caca785
+  - enabled: 0
+    path: Assets/Scenes/Lab3BAutograder/Lab3B_4_SlightLeft.unity
+    guid: 8d071732524f7b74fbb573892b77550d
+  - enabled: 0
+    path: Assets/Scenes/Lab3BAutograder/Lab3B_5_FarRight.unity
+    guid: 158d4b2fbbfe5d446b7bd0dd472133e7
+  - enabled: 0
+    path: Assets/Scenes/Lab3CAutograder/Lab3C_1_Straight.unity
+    guid: 4361781409874d24bb86c94f44d95edc
+  - enabled: 0
+    path: Assets/Scenes/Lab3CAutograder/Lab3C_2_SlightAngle.unity
+    guid: 906f7d0ee8094af4e814c2df0db5e890
+  - enabled: 0
+    path: Assets/Scenes/Lab3CAutograder/Lab3C_3_ModerateAngle.unity
+    guid: b07b2c2ee2ef8ee41a969339fca1a791
+  - enabled: 0
+    path: Assets/Scenes/Lab3CAutograder/Lab3C_4_MajorAngle.unity
+    guid: 83636b3818f71194c805aaae5cb4c249
+  - enabled: 0
+    path: Assets/Scenes/Phase1Autograder/P1_1_BlueCone.unity
+    guid: d2c5938a1c1cb834c9c32b3909526a32
+  - enabled: 0
+    path: Assets/Scenes/Phase1Autograder/P1_2_RedCone.unity
+    guid: e6380a231229804489662916ff7b53e2
+  - enabled: 0
+    path: Assets/Scenes/Phase1Autograder/P1_3_StraightCourse.unity
+    guid: dbfaa69ba5eb2c345bee2b2e2b4a5025
+  - enabled: 0
+    path: Assets/Scenes/Phase1Autograder/P1_4_CurvedCourse.unity
+    guid: 21d04dca5e7717646b7c6b21d699a9c0
+  - enabled: 0
+    path: Assets/Scenes/Phase1Autograder/P1_5_Gates.unity
+    guid: 70b5a665b7c849342871622a21fdbf8b
+  - enabled: 0
+    path: Assets/Scenes/Phase1Autograder/P1_6_Full.unity
+    guid: 94f1deec1b547ff47af88a18bc97b0bf
+  - enabled: 0
+    path: Assets/Scenes/Phase1AutograderHard/P1Hard_1_Close.unity
+    guid: 4a033d27b05e4ae419a71b00dd8a1ef0
+  - enabled: 0
+    path: Assets/Scenes/Phase1AutograderHard/P1Hard_2_Hill.unity
+    guid: 039e8c0e8cc43274195c9228a6edde41
+  - enabled: 0
+    path: Assets/Scenes/Phase1AutograderHard/P1Hard_3_Full.unity
+    guid: fe424d7c002d01d498bb3db554b1a736
+  - enabled: 0
+    path: Assets/Scenes/Lab4AAutograder/Lab4A_1_FullSpeed.unity
+    guid: b6c235eafa39ad4458d4d335c4e821b9
+  - enabled: 0
+    path: Assets/Scenes/Lab4AAutograder/Lab4A_2_Wall.unity
+    guid: 2c843d2fbd109674d93e327f7b0fd911
+  - enabled: 0
+    path: Assets/Scenes/Lab4AAutograder/Lab4A_3_Blocks.unity
+    guid: 093ba1826a2b416468d2d3c1753489ff
+  - enabled: 0
+    path: Assets/Scenes/Lab4AAutograder/Lab4A_4_Cone.unity
+    guid: ffe9bd0b595a0d44fa6a6ecbde198ff4
+  - enabled: 0
+    path: Assets/Scenes/Lab4AAutograder/Lab4A_5_Gap.unity
+    guid: d7c85a01571126546a55516239c8e671
+  - enabled: 0
+    path: Assets/Scenes/Lab4BAutograder/Lab4B_1_45Degree.unity
+    guid: 46ddb2efd036dd2439f4a1d0adbdbd62
+  - enabled: 0
+    path: Assets/Scenes/Lab4BAutograder/Lab4B_2_90Degree.unity
+    guid: 17a38bef5bec4144fa16b2f43b83b7d1
+  - enabled: 0
+    path: Assets/Scenes/Lab4BAutograder/Lab4B_3_Tight.unity
+    guid: 8a834d47db09eeb449d71f21182b8150
+  - enabled: 0
+    path: Assets/Scenes/Lab4BAutograder/Lab4B_4_Posts.unity
+    guid: 23202313be9f6d9438932988d3f8dbf3
+  - enabled: 0
+    path: Assets/Scenes/Lab4BAutograder/Lab4B_5_Full.unity
+    guid: 1b9a36c8f541ddc4eacfc0dea1f72661
+  - enabled: 0
+    path: Assets/Scenes/Lab4BAutograder/Lab4B_6_Organic.unity
+    guid: 3bd9c061a64afcb4ab27701ff488e089
+  - enabled: 0
+    path: Assets/Scenes/Lab5Autograder/Lab5_1_IdLeft.unity
+    guid: 25e9a15f128ba1a4eb49f46b1666211d
+  - enabled: 0
+    path: Assets/Scenes/Lab5Autograder/Lab5_2_IdRight.unity
+    guid: 10d758e6c9a3f4741b8d0580ded2e344
+  - enabled: 0
+    path: Assets/Scenes/Lab5Autograder/Lab5_3_OrientationLeft.unity
+    guid: 2c7ff4c5376e5f642aaf7634c1c0bdba
+  - enabled: 0
+    path: Assets/Scenes/Lab5Autograder/Lab5_4_OrientationRight.unity
+    guid: 1268a4fbeb8e5564587a34a91242954b
+  - enabled: 0
+    path: Assets/Scenes/Lab5Autograder/Lab5_5_ColorRed.unity
+    guid: 1c7dbaa2f55f8f34ebc1c97e3d11933d
+  - enabled: 0
+    path: Assets/Scenes/Lab5Autograder/Lab5_6_ColorBlue.unity
+    guid: 753966f920a69374f97d8975ba35458b
+  - enabled: 0
+    path: Assets/Scenes/Lab5Autograder/Lab5_7_Full.unity
+    guid: 453a55960cd271b49895cc94e4cde73e
+  - enabled: 0
+    path: Assets/Scenes/FinalAutograder/Final_TimeTrial.unity
+    guid: 52c75334a0cca734c93e7fe825f14a69
+  - enabled: 0
+    path: Assets/Scenes/FinalAutograder/Final_GrandPrix.unity
+    guid: 365f1eb795e5cd34bb8f46b893e9bcbc
+  - enabled: 0
+    path: Assets/Scenes/TestAutograder/Test1_1_BasicFinish.unity
+    guid: a2fb54b15c64312449fee634af00cf1b
+  - enabled: 0
+    path: Assets/Scenes/TestAutograder/Test2_1_CheckpointsAndFinish.unity
+    guid: a71f21fa0fdcb724687c9b981f97b0e6
+  m_configObjects: {}
