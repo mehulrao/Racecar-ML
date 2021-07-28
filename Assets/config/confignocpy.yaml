@@ -20,8 +20,8 @@ behaviors:
     network_settings:
       vis_encode_type: simple
       normalize: false
-      hidden_units: 128
-      num_layers: 2
+      hidden_units: 256
+      num_layers: 4
       # memory
       memory:
         sequence_length: 64
@@ -31,8 +31,8 @@ behaviors:
     max_steps: 3.0e7
     time_horizon: 64
     summary_freq: 10000
-    keep_checkpoints: 5
-    checkpoint_interval: 50000
+    keep_checkpoints: 200
+    checkpoint_interval: 20000
     threaded: true
     init_path: null
 

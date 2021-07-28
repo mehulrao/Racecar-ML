@@ -1,0 +1,659 @@
+{
+    "Racecar": {
+        "checkpoints": [
+            {
+                "steps": 19969,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-19969.onnx",
+                "reward": -0.7589999541640282,
+                "creation_time": 1627430277.2647967,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-19969.pt"
+                ]
+            },
+            {
+                "steps": 39992,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-39992.onnx",
+                "reward": 0.4697369348845984,
+                "creation_time": 1627430349.0241413,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-39992.pt"
+                ]
+            },
+            {
+                "steps": 59942,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-59942.onnx",
+                "reward": 2.2512224171724586,
+                "creation_time": 1627430420.2958558,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-59942.pt"
+                ]
+            },
+            {
+                "steps": 79989,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-79989.onnx",
+                "reward": 2.4067729372869837,
+                "creation_time": 1627430491.843761,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-79989.pt"
+                ]
+            },
+            {
+                "steps": 99957,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-99957.onnx",
+                "reward": 4.774350280687213,
+                "creation_time": 1627430564.2961972,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-99957.pt"
+                ]
+            },
+            {
+                "steps": 119979,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-119979.onnx",
+                "reward": 3.3272224236969596,
+                "creation_time": 1627430635.7624278,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-119979.pt"
+                ]
+            },
+            {
+                "steps": 139951,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-139951.onnx",
+                "reward": 8.484000410884619,
+                "creation_time": 1627430710.162372,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-139951.pt"
+                ]
+            },
+            {
+                "steps": 159939,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-159939.onnx",
+                "reward": 8.49200044820706,
+                "creation_time": 1627430780.0271657,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-159939.pt"
+                ]
+            },
+            {
+                "steps": 179956,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-179956.onnx",
+                "reward": 10.427000674108664,
+                "creation_time": 1627430850.8969471,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-179956.pt"
+                ]
+            },
+            {
+                "steps": 199962,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-199962.onnx",
+                "reward": 10.410000687465072,
+                "creation_time": 1627430922.209719,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-199962.pt"
+                ]
+            },
+            {
+                "steps": 219999,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-219999.onnx",
+                "reward": 10.476000731190046,
+                "creation_time": 1627430992.858248,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-219999.pt"
+                ]
+            },
+            {
+                "steps": 239969,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-239969.onnx",
+                "reward": 10.480429232120514,
+                "creation_time": 1627431063.3125076,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-239969.pt"
+                ]
+            },
+            {
+                "steps": 259939,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-259939.onnx",
+                "reward": 10.464375687763095,
+                "creation_time": 1627431133.9803994,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-259939.pt"
+                ]
+            },
+            {
+                "steps": 279975,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-279975.onnx",
+                "reward": 9.249857670494489,
+                "creation_time": 1627431205.1900878,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-279975.pt"
+                ]
+            },
+            {
+                "steps": 299958,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-299958.onnx",
+                "reward": 10.243714913725853,
+                "creation_time": 1627431276.094269,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-299958.pt"
+                ]
+            },
+            {
+                "steps": 319981,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-319981.onnx",
+                "reward": 7.8736672687033815,
+                "creation_time": 1627431346.7522316,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-319981.pt"
+                ]
+            },
+            {
+                "steps": 339945,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-339945.onnx",
+                "reward": 10.248667313406864,
+                "creation_time": 1627431417.1260078,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-339945.pt"
+                ]
+            },
+            {
+                "steps": 359957,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-359957.onnx",
+                "reward": 10.413111720648077,
+                "creation_time": 1627431488.0354466,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-359957.pt"
+                ]
+            },
+            {
+                "steps": 379995,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-379995.onnx",
+                "reward": 10.463500635325909,
+                "creation_time": 1627431558.4018383,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-379995.pt"
+                ]
+            },
+            {
+                "steps": 399980,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-399980.onnx",
+                "reward": 10.469500609363118,
+                "creation_time": 1627431628.3908434,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-399980.pt"
+                ]
+            },
+            {
+                "steps": 419976,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-419976.onnx",
+                "reward": 9.078067118922869,
+                "creation_time": 1627431698.1216204,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-419976.pt"
+                ]
+            },
+            {
+                "steps": 439965,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-439965.onnx",
+                "reward": 6.933750289306045,
+                "creation_time": 1627431768.681317,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-439965.pt"
+                ]
+            },
+            {
+                "steps": 459946,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-459946.onnx",
+                "reward": 6.137500264016645,
+                "creation_time": 1627431838.7972612,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-459946.pt"
+                ]
+            },
+            {
+                "steps": 479944,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-479944.onnx",
+                "reward": 1.475928614714316,
+                "creation_time": 1627431910.3682714,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-479944.pt"
+                ]
+            },
+            {
+                "steps": 499988,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-499988.onnx",
+                "reward": 8.276083734507361,
+                "creation_time": 1627431980.4828818,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-499988.pt"
+                ]
+            },
+            {
+                "steps": 519988,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-519988.onnx",
+                "reward": 10.54175061856707,
+                "creation_time": 1627432050.5409982,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-519988.pt"
+                ]
+            },
+            {
+                "steps": 539971,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-539971.onnx",
+                "reward": 10.525072008371353,
+                "creation_time": 1627432120.5149477,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-539971.pt"
+                ]
+            },
+            {
+                "steps": 559980,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-559980.onnx",
+                "reward": 10.540067175030709,
+                "creation_time": 1627432190.6480095,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-559980.pt"
+                ]
+            },
+            {
+                "steps": 579955,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-579955.onnx",
+                "reward": 10.296750572044402,
+                "creation_time": 1627432261.3757765,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-579955.pt"
+                ]
+            },
+            {
+                "steps": 599939,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-599939.onnx",
+                "reward": 10.353111653692192,
+                "creation_time": 1627432331.680014,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-599939.pt"
+                ]
+            },
+            {
+                "steps": 619977,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-619977.onnx",
+                "reward": 10.599227914417332,
+                "creation_time": 1627432402.608454,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-619977.pt"
+                ]
+            },
+            {
+                "steps": 639949,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-639949.onnx",
+                "reward": 10.620500396937132,
+                "creation_time": 1627432474.5073817,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-639949.pt"
+                ]
+            },
+            {
+                "steps": 659966,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-659966.onnx",
+                "reward": 10.639500446617603,
+                "creation_time": 1627432544.1687582,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-659966.pt"
+                ]
+            },
+            {
+                "steps": 679982,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-679982.onnx",
+                "reward": 10.622500518336892,
+                "creation_time": 1627432614.5333812,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-679982.pt"
+                ]
+            },
+            {
+                "steps": 699950,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-699950.onnx",
+                "reward": 10.627666921665272,
+                "creation_time": 1627432684.7112994,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-699950.pt"
+                ]
+            },
+            {
+                "steps": 719949,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-719949.onnx",
+                "reward": 10.073000404451575,
+                "creation_time": 1627432754.823445,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-719949.pt"
+                ]
+            },
+            {
+                "steps": 739953,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-739953.onnx",
+                "reward": 10.639800401777029,
+                "creation_time": 1627432824.9638603,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-739953.pt"
+                ]
+            },
+            {
+                "steps": 759987,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-759987.onnx",
+                "reward": 9.445384894999174,
+                "creation_time": 1627432895.2738788,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-759987.pt"
+                ]
+            },
+            {
+                "steps": 779959,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-779959.onnx",
+                "reward": 8.115882628542536,
+                "creation_time": 1627432965.974637,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-779959.pt"
+                ]
+            },
+            {
+                "steps": 799990,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-799990.onnx",
+                "reward": 9.612474097625205,
+                "creation_time": 1627433036.2889948,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-799990.pt"
+                ]
+            },
+            {
+                "steps": 819996,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-819996.onnx",
+                "reward": 10.645476615854673,
+                "creation_time": 1627433106.5714006,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-819996.pt"
+                ]
+            },
+            {
+                "steps": 839967,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-839967.onnx",
+                "reward": 10.240250450869402,
+                "creation_time": 1627433176.6902351,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-839967.pt"
+                ]
+            },
+            {
+                "steps": 859992,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-859992.onnx",
+                "reward": 10.671667146186033,
+                "creation_time": 1627433248.5313263,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-859992.pt"
+                ]
+            },
+            {
+                "steps": 879964,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-879964.onnx",
+                "reward": 9.79944486833281,
+                "creation_time": 1627433318.4735656,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-879964.pt"
+                ]
+            },
+            {
+                "steps": 899999,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-899999.onnx",
+                "reward": 10.67433369110028,
+                "creation_time": 1627433388.5328834,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-899999.pt"
+                ]
+            },
+            {
+                "steps": 919994,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-919994.onnx",
+                "reward": 10.674333772843791,
+                "creation_time": 1627433458.7568617,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-919994.pt"
+                ]
+            },
+            {
+                "steps": 939948,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-939948.onnx",
+                "reward": 10.687889216950646,
+                "creation_time": 1627433528.7927735,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-939948.pt"
+                ]
+            },
+            {
+                "steps": 959952,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-959952.onnx",
+                "reward": 10.686100406944751,
+                "creation_time": 1627433599.5495312,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-959952.pt"
+                ]
+            },
+            {
+                "steps": 979965,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-979965.onnx",
+                "reward": 10.688033778965472,
+                "creation_time": 1627433669.5524461,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-979965.pt"
+                ]
+            },
+            {
+                "steps": 999955,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-999955.onnx",
+                "reward": 10.688500292599201,
+                "creation_time": 1627433742.408125,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-999955.pt"
+                ]
+            },
+            {
+                "steps": 1019981,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1019981.onnx",
+                "reward": 10.699750252068043,
+                "creation_time": 1627433811.3413048,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1019981.pt"
+                ]
+            },
+            {
+                "steps": 1039982,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1039982.onnx",
+                "reward": 10.690667040646076,
+                "creation_time": 1627433881.5333598,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1039982.pt"
+                ]
+            },
+            {
+                "steps": 1059968,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1059968.onnx",
+                "reward": 10.696750335395336,
+                "creation_time": 1627433951.5063598,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1059968.pt"
+                ]
+            },
+            {
+                "steps": 1079999,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1079999.onnx",
+                "reward": 10.692300410568714,
+                "creation_time": 1627434021.970467,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1079999.pt"
+                ]
+            },
+            {
+                "steps": 1099985,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1099985.onnx",
+                "reward": 10.385307998038256,
+                "creation_time": 1627434091.9699662,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1099985.pt"
+                ]
+            },
+            {
+                "steps": 1119951,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1119951.onnx",
+                "reward": 10.689214781991073,
+                "creation_time": 1627434162.6111214,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1119951.pt"
+                ]
+            },
+            {
+                "steps": 1139966,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1139966.onnx",
+                "reward": 9.826812804210931,
+                "creation_time": 1627434232.595387,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1139966.pt"
+                ]
+            },
+            {
+                "steps": 1159949,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1159949.onnx",
+                "reward": 10.683000373343626,
+                "creation_time": 1627434302.585425,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1159949.pt"
+                ]
+            },
+            {
+                "steps": 1179986,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1179986.onnx",
+                "reward": 10.115238287973972,
+                "creation_time": 1627434372.5682878,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1179986.pt"
+                ]
+            },
+            {
+                "steps": 1199948,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1199948.onnx",
+                "reward": 10.368840339779855,
+                "creation_time": 1627434442.6145344,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1199948.pt"
+                ]
+            },
+            {
+                "steps": 1219965,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1219965.onnx",
+                "reward": 10.334963209927082,
+                "creation_time": 1627434512.765502,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1219965.pt"
+                ]
+            },
+            {
+                "steps": 1239964,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1239964.onnx",
+                "reward": 10.55525034985372,
+                "creation_time": 1627434582.3903525,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1239964.pt"
+                ]
+            },
+            {
+                "steps": 1259968,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1259968.onnx",
+                "reward": 9.444848722129157,
+                "creation_time": 1627434652.1821234,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1259968.pt"
+                ]
+            },
+            {
+                "steps": 1279939,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1279939.onnx",
+                "reward": 10.700000293552876,
+                "creation_time": 1627434724.5583694,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1279939.pt"
+                ]
+            },
+            {
+                "steps": 1299958,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1299958.onnx",
+                "reward": 10.69050032645464,
+                "creation_time": 1627434794.109622,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1299958.pt"
+                ]
+            },
+            {
+                "steps": 1319949,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1319949.onnx",
+                "reward": 10.698000438511372,
+                "creation_time": 1627434863.7658782,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1319949.pt"
+                ]
+            },
+            {
+                "steps": 1339976,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1339976.onnx",
+                "reward": 10.707111273374823,
+                "creation_time": 1627434933.625675,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1339976.pt"
+                ]
+            },
+            {
+                "steps": 1359995,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1359995.onnx",
+                "reward": 10.70250021169583,
+                "creation_time": 1627435003.592326,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1359995.pt"
+                ]
+            },
+            {
+                "steps": 1379946,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1379946.onnx",
+                "reward": 10.452062785625458,
+                "creation_time": 1627435073.446204,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1379946.pt"
+                ]
+            },
+            {
+                "steps": 1399983,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1399983.onnx",
+                "reward": 9.261500313464138,
+                "creation_time": 1627435144.6271286,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1399983.pt"
+                ]
+            },
+            {
+                "steps": 1403415,
+                "file_path": "results\\new_env_morelayer\\Racecar\\Racecar-1403415.onnx",
+                "reward": 9.107200296471516,
+                "creation_time": 1627435156.417423,
+                "auxillary_file_paths": [
+                    "results\\new_env_morelayer\\Racecar\\Racecar-1403415.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1403415,
+            "file_path": "results\\new_env_morelayer\\Racecar.onnx",
+            "reward": 9.107200296471516,
+            "creation_time": 1627435156.417423,
+            "auxillary_file_paths": [
+                "results\\new_env_morelayer\\Racecar\\Racecar-1403415.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
