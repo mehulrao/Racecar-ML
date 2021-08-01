@@ -1,7 +1,7 @@
 # Racecar-ML
 
 ## About
-We used ML-Agents in Unity to train the MIT-designed RACECAR (Rapid Autonomous Complex Environment Competing Ackermann steeRing) on a cone slaloming course.
+We used [ML-Agents](https://github.com/Unity-Technologies/ml-agents) in Unity to train the MIT-designed RACECAR (Rapid Autonomous Complex Environment Competing Ackermann steeRing) on a cone slaloming course.
 
 We used Proximal Policy Optimization, Imitation Learning, GAIL, and Curriculum to train a neural network model.
 
