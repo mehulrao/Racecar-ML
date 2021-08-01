@@ -12,5 +12,8 @@ Final presentation video: [https://youtu.be/HjLCPo5ZN3c](https://youtu.be/HjLCPo
 ## Contributors
 [Mehul Rao](https://github.com/mehulrao)  
 [Daniel Chuang](https://github.com/daniel-chuang)  
-[Steven Lei]()  
+[Steven Lei](https://github.com/stevensll)  
 [Austin Huang](https://github.com/ashuang1)  
+
+## Simulator
+The original simulation can be found here: [https://github.com/MITLLRacecar/Simulation](https://github.com/MITLLRacecar/Simulation)
