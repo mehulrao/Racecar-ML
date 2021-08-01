@@ -13,4 +13,4 @@ Final presentation video: [https://youtu.be/HjLCPo5ZN3c](https://youtu.be/HjLCPo
 [Mehul Rao](https://github.com/mehulrao)  
 [Daniel Chuang](https://github.com/daniel-chuang)  
 [Steven Lei]()  
-[Austin Huang]()  
+[Austin Huang](https://github.com/ashuang1)  
